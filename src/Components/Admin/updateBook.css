@@ -1,0 +1,7 @@
+.custom-table {
+    background-color: transparent; /* Set the background to transparent */
+  }
+  
+  .custom-table tbody tr {
+    border-bottom: 1px solid #ddd; /* Add a border to separate rows */
+  }
